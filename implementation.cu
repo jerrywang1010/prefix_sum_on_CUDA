@@ -11,9 +11,9 @@ void printSubmissionInfo()
     char nick_name[] = "wobuxiangxie";
 
     // Please fill in your information (for marking purposes only)
-    char student_first_name[] = "Ziyuan";
-    char student_last_name[] = "Wang";
-    char student_student_number[] = "1003968931";
+    char student_first_name[] = "XXXXX";
+    char student_last_name[] = "XXXX";
+    char student_student_number[] = "XXXXXXXX";
 
     // Printing out team information
     printf("*******************************************************************************************************\n");
